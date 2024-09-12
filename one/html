@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <!-- header -->
+    <div class="header">
+        <div class="container">	
+          <div class="logo">
+           <a href="#"><img src="images/logo.png" alt=""/></a>
+       </div>
+           <div class="top-menu">
+               <span class="menu"> </span>
+               <ul>
+                   <li><a class="home" href="index.html">home<lable><img src="images/home.png"></lable></a></li>
+                   <li><a href="#">portfolio</a></li>
+                   <li><a href="#">about</a></li>
+                   <li><a href="contact.html">contact</a></li>
+                   <li><a class="last" href="#">blog</a></li>
+                   </ul>
+                   </div>
+                   <div class="search-box">
+                    <h>search</h>
+                    <img src="images/search.png">
+                        
+                    </div>
+                </div>
+            
+    <!-- header -->
+    <!-- slider -->
+		<div class="slider">
+			  <ul class="slider-ul" >
+				<li> <img src="images/bg.jpg" alt="">
+
+				  <div class="m-slider">
+					<h3>good design is good business</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies sagittis magnaa commodo. Ut eget eros mauris, ut cursus urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrice.</p>
+					<a class="learn-more-slider" href="#">learn more</a>
+				  </div>
+				  </ul>
+		  	  </div>
+	
+
+    <!-- slider -->
+    <!--  -->
+    <div class="ourservice1">
+        <div class="ourservice">
+          <div class="container">
+            <div class="ourservice-header">
+              <div class="ourservice-head">
+                <h3>our services</h3>
+              </div>
+            </div>
+            <div class="ourservice-grids">
+              <div class="ourservice-grid">
+                <img src="images/laptop-4270353_1280.png" alt="#" />
+                <h3>web design</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit mauris nec
+                  ipsum at lacus commado suscipit.<a href="#">details...</a>
+                </p>
+              </div>
+              <div class="ourservice-grid">
+                <img src="images/magnifying-glass-1083378_1280.png" alt="#" />
+                <h3>search optimization</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit mauris nec
+                  ipsum at lacus commado suscipit.<a href="#">details...</a>
+                </p>
+              </div>
+              <div class="ourservice-grid">
+                <img src="images/shopping-cart-1105049_1280.png" alt="#" />
+                <h3>online shop</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit mauris nec
+                  ipsum at lacus commado suscipit.<a href="#">details...</a>
+                </p>
+              </div>
+              <div class="ourservice-grid">
+                <img src="images/thumb-up-1095059_1280.png" alt="#" />
+                <h3>social media</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit mauris nec
+                  ipsum at lacus commado suscipit.<a href="#">details...</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--  -->
+      <!--  -->
+      <div class="ourportfoilo">
+        <div class="ourportfoilo-head">
+          <h3>our portfolio awesome</h3>
+          <a href="#">more works</a>
+          <div class="clearfix"></div>
+        </div>
+        <div class="portfolio">
+          <div class="portfolio1">
+            <a href="#" class="link-portfolio animate-img">
+              <img src="images/صور-أطفال-للتصميم-02.jpg" alt="" />
+              <div class="morgan">
+                <div class="animate-morgan from-left">
+                  <div class="animate-head"></div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <h4>Ipsum Amet Dolar Sit</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing</p>
+        </div>
+      
+        <div class="portfolio">
+          <div class="portfolio1">
+            <a href="#" class="link-portfolio animate-img">
+              <img src="images/N029F76G.jpg" alt="" />
+              <div class="morgan">
+                <div class="animate-morgan from-left">
+                  <div class="animate-head"></div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <h4>Lorem Ipsum</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscinglit.</p>
+        </div>
+      
+        <div class="portfolio">
+          <div class="portfolio1">
+            <a href="#" class="link-portfolio animate-img">
+              <img src="images/446737390_127769.jpg" alt="" />
+              <div class="morgan">
+                <div class="animate-morgan from-left">
+                  <div class="animate-head"></div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <h4>Ipsum Amet Dolar Sit</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing</p>
+        </div>
+      </div>
+      <!--  -->
+      <div class="clearfix"></div>
+      
+      <div class="offer">
+        <div class="container">
+          <div class="offer-header">
+            <h3>what we offer</h3>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies
+              sagittis magnaa commodo. Ut eget eros mauris, ut cursus urna.
+              Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+            </p>
+          </div>
+          <div class="offer-grids">
+            <div class="offer-grid">
+              <h3>web design</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc gravida
+                mattis mi vitae tristique. Quisque vel purus tempor, tincidunt tellus
+                ut.
+              </p>
+              <a href="#" class="button-effect">details</a>
+            </div>
+            <div class="offer-grid">
+              <h3>search optimization</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc gravida
+                mattis mi vitae tristique. Quisque vel purus ittem portellus
+                ut.<a href="#">details...</a>
+              </p>
+            </div>
+            <div class="offer-grid">
+              <h3>online shop</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc gravida
+                mattis mi vitae tristique. Quisque vel purus tempor, tincidunt tellus
+                ut.
+              </p>
+              <a href="#" class="button-effect">details</a>
+            </div>
+            <div class="offer-grid">
+              <h3>social media</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc gravida
+                mattis mi vitae tristique. Quisque vel purus tempor, tincidu tellus
+                ut.<a href="#">>>></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="testimonials">
+        <div class="container">
+          <div class="test-morgan">
+            <h3>testimonials</h3>
+            <p>
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit mauris necip
+              at lacus commodo suscipit praesent sollicitudin enim vel mirhon"
+            </p>
+          </div>
+          <div class="test-grids">
+            <h4>Jon Doe / CEO of LoremIpsum</h4>
+            <section class="ms-slider">
+              <div class="flexslider1">
+                <ul class="ms-slider">
+                  <li>
+                    <ul>
+                      <li><a href="#"><img src="images/اجمل-اطفال-العالم-اولاد-1.jpg" /></a></li>
+                      <li><a href="#"><img src="images/اجمل-اطفال-حلوين-15.jpg" /></a></li>
+                      <li><a href="#"><img src="images/اجمل-اطفال-حلوين-18.jpg" /></a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+              <div class="clearfix"></div>
+            </section>
+          </div>
+        </div>
+      </div>
+      </div>
+      <!--  footer-->
+<div class="footer">
+    <div class="bird-feeds">
+        <h3>bird Feeds</h3>
+        <div class="bird-feed">
+            <p>Lorem ipsum dolor, sit amet </p>
+            <a href="#">http://nti.com</a>
+            <p> weeks ago</p>
+            
+        </div>
+        <div class="bird-feed">
+            <p>Lorem ipsum dolor, sit amet</p>
+            <a href="#">http://nti.com</a>
+            <p>weeks ago</p>
+        </div>
+        <div class="bird-feed">
+            <p>Lorem ipsum dolor, sit amet</p>
+            <a href="#">http://nti.com</a>
+            <p> weeks ago</p>
+        </div>
+    </div>
+    <div class="new-letter">
+        <h3>Newsletter</h3>
+        <div class="new-letters">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies sagittis magna a comm. Ut eget eros mauris, urna.</p>
+        </div>
+        <h4>Your Email Address</h4>
+        <form>
+            <input type="text">
+            <input type="button" value="Sign up">
+        </form>
+    </div>
+    <div class="recent-projects">
+        <h3>Recent Projects</h3>
+        <div class="recent-project">
+            <div class="recent-img">
+                <img src="images/اجمل-اطفال-حلوين-18.jpg">
+            </div>
+            <div class="recent-text">
+                <p>Lorem ipsum dolor</p>
+                <a href="#">http://nti.com</a>
+                <p>weeks ago</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="recent-project">
+            <div class="recent-img">
+                <img src="images/اجمل-اطفال-العالم-اولاد-1.jpg">
+            </div>
+            <div class="recent-text">
+                <p>Lorem ipsum dolor</p>
+                <a href="#">http://nti.com</a>
+                <p>weeks ago</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="recent-project">
+            <div class="recent-img">
+                <img src="images/اجمل-اطفال-حلوين-15.jpg">
+            </div>
+            <div class="recent-text">
+                <p>Lorem ipsum dolor</p>
+                <a href="#">http://nti.com</a>
+                <p>weeks ago</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="contact">
+        <h3>Contact</h3>
+        <ul>
+            <li><i class="mob2"></i></li>
+            <li>
+                <img src="images/telephone.png" >
+                <p>1-000-000-0000</p>
+                <p>1-000-000-0000</p>
+            </li>
+        </ul>
+        <ul>
+            <li><i class="mob3"></i></li>
+            <li>
+                <img src="images/comments.png" >
+                <p>1-000-000-0000</p>
+                <p>1-000-000-0000</p>
+            </li>
+        </ul>
+        <ul>
+            <li><i class="message"></i></li>
+            <li>
+                <img src="images/mail.png" >
+                <a href="mail-to:nti@nti.com">nti@nti.com</a>
+                <a href="mail-to:nti@nti.com">nti@nti.com</a>
+              
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+</body>
+</html>
